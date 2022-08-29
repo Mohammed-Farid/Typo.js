@@ -1,4 +1,4 @@
-const Typo = require('./typo/typo');
+const Typo = require('./dist/typo');
 
 module.exports = {
   Typo,
